@@ -73,4 +73,4 @@ Finální verze hry se může výrazně lišit od uvedených popisů.
 
 ---
 
-©
+© 2025 - Pavel Ringelhán

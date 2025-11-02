@@ -15,6 +15,7 @@
 **Anomali Hospital 1**  
 Psychologicko–logická hororová hra s důrazem na pozorování prostředí a detekci změn („anomálií“).  
 Hráč je uzavřen v prostředí opuštěné nemocnice, kde se svět kolem něj neustále mění – někdy nenápadně, jindy děsivě.
+
 ---
 
 ## Autor projektu

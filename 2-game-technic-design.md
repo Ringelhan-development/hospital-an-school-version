@@ -26,7 +26,7 @@
 **Popis systému:**  
  Anomali Loading System je komplexní systém zajišťující dynamické načítání a správu anomálií v jednotlivých levelech. Jeho hlavním cílem je vytvořit plynulý zážitek bez viditelného načítání a zajistit logické i náhodné rozložení anomálií během hry.
 
-![][image1]
+  <img src="img/bp.png" width="45%">
 
 #### **Funkce systému**
 
@@ -62,7 +62,7 @@
 
 1. **Inicializace:**  
     Při spuštění levelu systém zpracuje dostupné datové struktury a uloží jejich parametry.  
-   ![][image2]  
+  <img src="img/bp-structure.png" width="45%">
    *(Pouze ukázkový příklad)*
 
 2. **Výběr anomálií:**
@@ -79,9 +79,13 @@
 
    
 
-     ![][image3]![][image4]
+     
+<p align="center">
+  <img src="img/bp-true.png" width="45%">
+  <img src="img/bp-false.png" width="45%">
+</p>
 
-     *(Pouze ukázkový příklad)*
+*(Pouze ukázkový příklad)*
 
 ---
 
@@ -97,7 +101,7 @@
 
   * Systém využije uloženou datovou strukturu pro obnovení všech **BP\_ANOMALI** a jejich **Child Components** do výchozího stavu.
 
-![][image5]
+ <img src="img/bp-blured.png" width="45%">
 
 *(Pouze ukázkový příklad)*
 

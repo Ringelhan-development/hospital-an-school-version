@@ -1,6 +1,6 @@
 # Game Design / Technic Design
 
-## **Anomali Hospital** | Pavel Ringelhán | p.ring@gmail.com
+## **Anomali Hospital** | Pavel Ringelhán | pavel.ring@gmail.com
 
 
 ###  2.1 Herní principy

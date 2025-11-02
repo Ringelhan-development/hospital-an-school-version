@@ -20,7 +20,8 @@ Hráč je uzavřen v prostředí opuštěné nemocnice, kde se svět kolem něj 
 
 ## Autor projektu
 Pavel Ringelhán
-E-mail: p.ring@gmail.com
+E-mail: pavel.ring@gmail.com
+IČO: 09621148
 
 ## 👥 Členové projektu
 - **Pavel Ringelhán** – Autor hry, Level Design  

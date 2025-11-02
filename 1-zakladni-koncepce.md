@@ -1,5 +1,5 @@
 # Základní koncepce
-## **Anomali Hospital** | Pavel Ringelhán | p.ring@gmail.com
+## **Anomali Hospital** | Pavel Ringelhán | pavel.ring@gmail.com
 
 
 **Tým**:  

@@ -27,7 +27,7 @@ IČO: 09621148
 - **Pavel Ringelhán** – Autor hry, Level Design, Vývoj  
 - **Josef Sivčo** – Vývoj, logika hry  
 - **Adriána Tesařová** – 2D grafika  
-- **Ing. Matěj „Slovák“** – 3D modelování  
+- **Mgr. Matej Brunovský** – 3D modelování  
 - **Externí dabéři** – Dubbing
 
 ---

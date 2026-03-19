@@ -4,9 +4,12 @@
 ---
 
 ## 📂 Navigace
+- [🎤 Audio](./4-audio.md)
+- [🖌️ Graphic Design](./3-graphic-design.md)
 - [📘 Koncepce hry](./1-zakladni-koncepce.md)  
 - [🎮 Game Design a Technic Design](./2-game-technic-design.md)  
 - [📗 Tento dokument (README)](./README.md)
+
 
 
 ---

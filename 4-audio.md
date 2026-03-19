@@ -1,7 +1,6 @@
 # Echoes Of Sin: Confusion
 # Kapitola 4: Audio a ozvučení (Audio)
 
-
 Zvuky v **Echoes of Sin: Confusion** hrají hlavní roly v navození hororové atmosféry.
 
 
